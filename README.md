@@ -11,6 +11,8 @@ No overloaded interface.
 
 Just a fast, clean launcher designed to get you into Minecraft as quickly as possible.
 
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-red?style=for-the-badge&logo=github)](https://github.com/CazymirTM/Xedem-Launcher-Client/releases/latest)
+
 ## Why Xedem?
 
 Most launchers try to do more and more until the launcher itself becomes heavier than it needs to be. Xedem takes the opposite approach.
