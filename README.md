@@ -87,3 +87,6 @@ The goal is to provide a smooth experience while keeping the launcher itself lig
 Xedem Launcher is still evolving, with new features and improvements being added over time — while keeping the original philosophy intact:
 
 **Keep it simple. Keep it fast. Keep it lightweight.**
+
+Developed by: Me
+UI Design by: **AlexXZrZ**
