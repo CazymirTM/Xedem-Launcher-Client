@@ -88,5 +88,6 @@ Xedem Launcher is still evolving, with new features and improvements being added
 
 **Keep it simple. Keep it fast. Keep it lightweight.**
 
-Developed by: Me
+Developed by: **CeZeY**
+
 UI Design by: **AlexXZrZ**
